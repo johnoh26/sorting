@@ -1,6 +1,4 @@
-This project is built based on Clement Mihailescu's [Sorting Visualizer project](https://github.com/clementmihailescu/Sorting-Visualizer).
-
-Everything related to the tutorial (i.e., all the code that I, Clement, wrote) is located under /src/SortingVisualizer and /src/sortingAlgorithms. The SortingVisualizer component is imported and rendered in App.js.
+The SortingVisualizer component is imported and rendered in App.js.
 
 If you want to work off of this base to create your own Sorting Visualizer, feel free to fork this project or to just copy-paste code.
 

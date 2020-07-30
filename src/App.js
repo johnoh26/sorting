@@ -14,7 +14,7 @@ function App() {
             <Nav.Link href="#">Sorting Algorithms Visualizer</Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link href="/" disabled>
+            <Nav.Link href="https://johnoh26.github.io/pathfinding/">
               Go To Pathfinding Visualizer
             </Nav.Link>
           </Nav.Item>

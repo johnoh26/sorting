@@ -267,7 +267,7 @@ export default class SortingVisualizer extends React.Component {
               value={this.state.NUMBER_OF_ARRAY_BARS}
               onChange={this.handleSlider}
             />
-            +/- Bars
+            Drag The Green Square To Increase/Decrease Bars
           </div>
         </div>
       </div>
